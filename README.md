@@ -1,1 +1,1 @@
-./packages/after.js/README.md
+Builded package
